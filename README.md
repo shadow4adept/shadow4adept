@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/shadow4adept/shadow4adept/main/dethskullr.gif" width="50px" height="auto" style="border: 20px solid red"> Hi there, I'm Gustavo Hirota 👋
+# <img src="https://raw.githubusercontent.com/shadow4adept/shadow4adept/main/dethskullr.gif" width="50px" height="auto" style="border: 20px solid red"> Hi there, I'm Gustavo Hirota
 
-## 🎸 About Me
+## 👋 About Me
 
 - 👨‍🎓 Computer Science student at **FATEC de Ferraz de Vasconcelos**, Brazil  
 - 🐍 Passionate about **Python programming** and building cool projects  
